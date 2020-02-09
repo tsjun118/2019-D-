@@ -1,5 +1,5 @@
 # 2019-D-
-2019华为杯数学建模D题 WEKEEP团队
+2019华为杯数学建模D题 
 
    yuchuli_pianduanhuafen.py  该文件代码用于：第一问的数据预处理和第二问的运动学片段划分
    chazhi.py  该文件代码用于：第一问的异常GPS车速值的内插
